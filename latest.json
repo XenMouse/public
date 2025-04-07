@@ -17,7 +17,7 @@
       },
       "windows-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWitUdkJ3djRuS1BYTElQbGRLaEx2NUdYdUZyRk5qRFArVVNZemJZcjY5Y2FkZ0xFRnNoTHIrbTZORXZWQ1VLVDhqeFF6RDFUZUZDQTFHMmN3U1BIdVhiS1NVdVpyT3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MDI5NjQzCWZpbGU6WGVuTW91c2VfMC4yLjBfeDY0LXNldHVwLmV4ZQpKUXJIZXJBOUF4a2QrcE5zME94TkUrSzhwTFE3WWtEZzdyb3hmZmxDanZyVDZkUytac1ZGVWF5T2pmRDl1QmFRVEcvM0NSMnZvcVNWb0wyOC9FeitEUT09Cg==",
-        "url": "https://github.com/XenMouse/public/releases/download/0.2.0/XenMouse_0.2.0_x64-setup.exe"
+        "url": "https://github.com/XenMouse/public/releases/latest/download/XenMouse_x64-setup.exe"
       }
     }
   }
