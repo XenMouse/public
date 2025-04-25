@@ -1,7 +1,7 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "notes": "",
-    "pub_date": "2025-04-23T13:44:25.509Z",
+    "pub_date": "2025-04-25T03:58:44.000Z",
     "platforms": {
       "darwin-x86_64": {
         "signature": "Content of app.tar.gz.sig",
