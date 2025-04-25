@@ -16,7 +16,7 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWitUdkJ3djRuS0VaM0krZ2JPc04vN1V4Tjh3ZU9ySnA3OXpuQ3hCVFg4QktvYURzQjFsYTJ1S2NORU5mc0hWK1FRdVpLNDRBRVZveWhYT3pYNXlIMm1raU9oZWNMSHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NDE2NzIwCWZpbGU6WGVuTW91c2VfMC4yLjFfeDY0LXNldHVwLmV4ZQozMUJGVjgrTWNxZTBKdnlKaUV6a3lZOVBMamRNM3YxdG5VZ2tPekIxc0pRTW4yTjBrTkcwOEFOZ1RFNlFtU0NyWTI3MnRaRGJwa2FjckcxcFl0U2JBUT09Cg==",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWitUdkJ3djRuS0hpNXMrNmorYXNpOW8zKzAxSUk5OUxyN3piMFdURzl0QUozRmxZVklsZ1N1Q0Yvc2dHOVh1aFpaYzdSOENMSndkc3FTTHdIdE1sWXpxbDU1SHJpekFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NTUyNDc4CWZpbGU6WGVuTW91c2VfMC4yLjJfeDY0LXNldHVwLmV4ZQp6V3Foa3MxU0t2SnN3dE84RnV6SnJNM21nRHlYQUhLeFBRMFpIQ2JwM0p6VFVuT01FM0sraVRNM3JiUldzU2Y4VmpHMFE4bWZBUjd5UFNDOGlpM1ZBZz09Cg==",
         "url": "https://github.com/XenMouse/public/releases/latest/download/XenMouse_x64-setup.exe"
       }
     }
