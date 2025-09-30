@@ -1,7 +1,7 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.2",
     "notes": "",
-    "pub_date": "2025-08-12T06:28:06Z",
+    "pub_date": "2025-09-30T02:17:56.221Z",
     "platforms": {
       "darwin-x86_64": {
         "signature": "Content of app.tar.gz.sig",
@@ -16,7 +16,7 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWitUdkJ3djRuS055aThSN3hobUpZNVRjZWxUWVVUWXpyTDc3SWZ4R0ExcGJxU3lja0h5VFltVlVsaXZoa3RwV3lXcWtpTGtEVHI0d0FkSktkQTBZK0pzeTJNRUhHcEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0OTgwMDI3CWZpbGU6WGVuTW91c2VfMC4zLjBfeDY0LXNldHVwLmV4ZQpJWDBPcVBPL0s0cFVqQm9zRlNpZ2p0bmd2aDFiMTZTTXVuSHBIeGxaSkN0d1JXUUlVUU1KRjVtOEh4ZUZNZlFuVE5vR0RFL3FjS0VwODBza0Q4Y1BCZz09Cg==",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWitUdkJ3djRuS1BRYmFUYnF3Zys4SGVnd0N0aWxadjUrZ2FXTXJUQ2NpSFRZZGtBVldONW92NE1IVnJmaU1jQUJVNTJjR3FJdGpQSkpHVlVhMlVJc01pZXBjemZmNHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MTk4NjM4CWZpbGU6WGVuTW91c2VfMC4zLjJfeDY0LXNldHVwLmV4ZQpVZWlmNjZkZ25hOG9JejFIc2kwR3BJNGZTTkdSYitmaXlINkwySFc3UXo4Zmp2Z1J5TWlMaktTTHM2L0pjV0s1NENHdEowVjZqaFVMaDRzYVRxWlJBQT09Cg==",
         "url": "https://github.com/XenMouse/public/releases/latest/download/XenMouse_x64-setup.exe"
       }
     }
